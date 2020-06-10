@@ -6,7 +6,7 @@ A number of demographic and geographic data from US Census datasets were used in
 
 ## Tableau Link
 
-[Tableau_Public]()
+[Tableau_Public](https://public.tableau.com/profile/andres.p.rivas#!/vizhome/DesMoinesBikesharingPlan_15917958358240/BusinessProposalStory)
 
 
 ## population 

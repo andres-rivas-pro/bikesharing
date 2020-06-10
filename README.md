@@ -4,7 +4,7 @@ Creating Tableau Dashboards and stories about NYC Citi Bike in order to make a s
 
 ## Visualization in Tableau
 
-[Tableau_Public](https://public.tableau.com/profile/andres.p.rivas#!/)
+[Tableau_Public](https://public.tableau.com/profile/andres.p.rivas#!/vizhome/DesMoinesBikesharingPlan_15917958358240/BusinessProposalStory)
 
 ## Written Analysis
 

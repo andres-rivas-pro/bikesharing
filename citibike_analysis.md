@@ -56,4 +56,4 @@ Bike share is a relatively inexpensive and easy-to-implement transportation opti
 
 ### Additional Citations
 
-[BCycle Program]()
+[BCycle Program](https://www.desmoinesregister.com/story/news/local/west-des-moines/2018/06/15/bike-sharing-west-des-moines-bcycle-ragbrai-des-moines-bicycle-collective/705020002/)
